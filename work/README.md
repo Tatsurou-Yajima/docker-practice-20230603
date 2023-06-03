@@ -1,17 +1,11 @@
-# 【 ３部: 雛形 】
+# Summary
 
-## ファイルツリー
+メール送信アプリです。
 
-```
-$ tree .
+Dockerの学習の一環として作成しました。
 
-.
-|-- docker
-|   |-- app
-|   `-- db
-`-- src
-    |-- form.php
-    |-- history.php
-    |-- index.php
-    `-- mail.php
-```
+PHP + MySQL + MailHog という構成です。
+
+こちらの書籍に沿って作成しています。
+
+https://zenn.dev/suzuki_hoge/books/2022-03-docker-practice-8ae36c33424b59/
